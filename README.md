@@ -34,17 +34,17 @@ error ketika terjadi kesalahan penulisan tag?
   -Digunakan untuk membuat baris baru di dalam sebuah paragraf.
   - Tidak menambahkan spasi tambahan.
   - Biasanya digunakan untuk membuat baris baru dalam satu paragraf yang sama
-4. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
    *title:
   - Menampilkan teks tooltip ketika mouse diletakan di atas gambar.
    -Isi atribut ini tidak ditampilkan pada halaman web.
   *alt:
   - Menampilkan teks alternatif jika gambar tidak dapat dimuat atau jika pengguna menggunakan pembaca layar.
   - Teks alt juga digunakan oleh mesin pencari untuk mengindeks gambar.
-5. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambarproporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambarproporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
   * Mengirimkan kedua atribut: Jika kamu ingin mengontrol ukuran gambar secara tepat, sebaiknya isi kedua atribut width dan height. Ini akan menjaga proporsi asli gambar.
   * Mengisi satu atribut: Jika hanya mengisi satu atribut (misalnya width), browser akan secara otomatis menghitung nilai atribut lainnya untuk menjaga proporsi. Namun, hasil akhir mungkin tidak selalu sesuai dengan yang diharapkan.
-6. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
   _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
   _blank: Membuka link di tab atau jendela baru.
   _self: Membuka link di jendela atau tab yang sama (default).
